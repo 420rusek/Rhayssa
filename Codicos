@@ -1,1 +1,31 @@
-# Rhayssa
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Amor</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Para Você, Meu Amor</h1>
+        </header>
+        <section class="message">
+            <p>Lembro de todos os dias em que ficávamos camperando nas partidas de Free Fire e conversando. Para outras pessoas, isso pode não parecer tão divertido, mas, para mim, o que mais importava era estar ali com você...</p>
+        </section>
+        <section class="photos">
+            <div class="photo">
+                <img src="foto1.jpg" alt="Foto 1">
+                <p>Nosso momento juntos!</p>
+            </div>
+            <!-- Adicione mais fotos como acima -->
+        </section>
+        <footer>
+            <div class="hearts">
+                <span>&hearts; &hearts; &hearts;</span>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>
